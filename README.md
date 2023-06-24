@@ -1,11 +1,11 @@
-# Hi there, I'm Lubi - aka [TechWarrior][github] 🙏 
-What is TechWarrior? it's for a tech nerd with a spirit of martial arts warrior .
+# Hi there, I'm Farhan Jihad - aka [WarriorProgrammer][github] 🙏 
+What is WarriorProgrammer? it's for a tech nerd with a spirit of martial arts warrior .
 
 
 <br />
 
-### I'm a Moslim Mobile Frontend Developer with Flutter & React Native, Ex Taekwondo Athlete, Future Muay Thai Athlete 😅 and Taekwondo Teacher
-- 💵 I'm currently working as Flutter Developer
+### I'm a Moslim Mobile Frontend Developer with Flutter & React Native, Ex Taekwondo Athlete, Future Muay Thai Athlete 😅 
+- 💵 I'm currently working as Embedded Engineer
 - 🔭 Learning everything i like and find it useful
 - 🤝 Looking to collaborate with other developer
 - 🚀 2023 Goals: Learn more about flutter and earn much money as possible 
@@ -15,15 +15,17 @@ What is TechWarrior? it's for a tech nerd with a spirit of martial arts warrior 
 ### Connect with me:
 
 
-[![website](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/lubiancaaa)
+[![website](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/farhanjaa)
 &nbsp;&nbsp;
-[![website](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/lubianca-samora/)
+[![website](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/farhan-jihad-arridha)
 &nbsp;&nbsp;
-[![website](https://img.icons8.com/fluency/48/000000/discord-new-logo.png)](https://discordhub.com/profile/465550439950057473)
-&nbsp;&nbsp;
-[![website](https://img.icons8.com/fluency/48/000000/steam.png)](https://steamcommunity.com/profiles/76561198184918382)
-&nbsp;&nbsp;
-[![website](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-shadow-tal-revivo.png)](https://stackoverflow.com/users/17653156/ccp)
+
+
+
+
+
+
+
 
 
 
