@@ -4,7 +4,7 @@ What is WarriorProgrammer? it's for a tech nerd with a spirit of martial arts wa
 
 <br />
 
-### I'm a Moslim Mobile Frontend Developer with Flutter & React Native, Ex Taekwondo Athlete, Future Muay Thai Athlete 😅 
+### I'm a Moslem Electrical Engineer with IoT & Embedded Engineer, Ex Taekwondo Athlete, Future Muay Thai Athlete 😅 
 - 💵 I'm currently working as Embedded Engineer
 - 🔭 Learning everything i like and find it useful
 - 🤝 Looking to collaborate with other developer
