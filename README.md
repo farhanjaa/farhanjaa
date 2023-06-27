@@ -8,7 +8,7 @@ What is WarriorProgrammer? it's for a tech nerd with a spirit of martial arts wa
 - 💵 I'm currently working as Embedded Engineer
 - 🔭 Learning everything i like and find it useful
 - 🤝 Looking to collaborate with other developer
-- 🚀 2023 Goals: Learn more about flutter and earn much money as possible 
+- 🚀 2023 Goals: Learn more about Embedded Engineer and earn much money as possible 
 - ⚡ Fun fact: I'm a black belt Taekwondo athlete since i was in senior high school and now my next target is to master Muay Thai and Boxing
 
 
@@ -97,6 +97,6 @@ What is WarriorProgrammer? it's for a tech nerd with a spirit of martial arts wa
 | <video src="https://user-images.githubusercontent.com/90954993/197124231-d60dc539-6892-40c7-afd0-93d53d7c359c.mp4">  | <video src="https://user-images.githubusercontent.com/90954993/197159227-9838825f-8e9f-423a-b79b-05b9f592a86c.mp4">  |  <video src="https://user-images.githubusercontent.com/90954993/197125801-5c899bca-5209-4ed2-986a-7fed6028f957.mp4">  | 
 
 
-[github]: https://github.com/farhanjaa
+[github]: https://farhanjaa.github.io/WarriorProgrammer/
 [instagram]: https://instagram.com/farhanjaa
 [linkedin]: https://www.linkedin.com/in/farhan-jihad-arridha/
